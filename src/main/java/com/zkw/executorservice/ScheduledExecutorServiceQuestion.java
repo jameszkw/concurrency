@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.zkw.concurrency.scheduledexecutorservice;
+package com.zkw.executorservice;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;

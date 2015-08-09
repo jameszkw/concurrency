@@ -1,4 +1,4 @@
-package com.zkw.threadpoolexecutor;
+package com.zkw.executorservice;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.LinkedBlockingQueue;
